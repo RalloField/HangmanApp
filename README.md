@@ -46,3 +46,7 @@ Feel free to experiment and enhance the game according to your preferences!
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Credits
+
+Credits to [Shaun Halverson](https://github.com/ShaunHalverson/).
